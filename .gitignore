@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 ./train_data_img/
 ./train_data.txt
+/.DS_Store
