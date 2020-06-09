@@ -1,0 +1,6 @@
+.idea/
+.DS_Store/
+__pycache__/
+*.pyc
+./train_data_img/
+./train_data.txt
