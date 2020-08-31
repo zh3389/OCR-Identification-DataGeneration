@@ -1,3 +1,4 @@
+**如果本项目对你训练 OCR(光学文字识别)的识别部分模型有帮助 欢迎Start...**
 ## 环境
 
 - `pip install -r requirements.txt`
